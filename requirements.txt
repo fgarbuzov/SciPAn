@@ -1,0 +1,4 @@
+feedparser
+requests
+python-dotenv
+# Optional: include model client if you use a specific SDK
